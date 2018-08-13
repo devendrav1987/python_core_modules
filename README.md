@@ -1,4 +1,4 @@
-###Exploration and sample code covering all python core modules.
+### Exploration and sample code covering all python core modules.
 
 Links to be added as code is uploaded.
 
@@ -610,3 +610,5 @@ Links to be added as code is uploaded.
 38. Undocumented Modules
 
     38.1. Platform specific modules
+
+Ref: https://docs.python.org/3/library/
